@@ -2,8 +2,8 @@
 
 Shared code for droidtop, Pythia, Enginehost and droidtop-agent: Enginehost's programmatic contract: launch, configure, the capabilities provider, `engines.cores`, the mod-set exchange.
 
-One of the shared libraries of Droidtop/tracker#867, in the split the owner approved on 2026-11-21
-(Droidtop/tracker#960, step 1.0). Where its code comes from: new; seeded from lib-net's launch-contract and Enginehost's docs/contract.md.
+One of the shared libraries of mytop-project/tracker#867, in the split the owner approved on 2026-11-21
+(mytop-project/tracker#960, step 1.0). Where its code comes from: new; seeded from mytop-net's launch-contract and Enginehost's docs/contract.md.
 
 **Shared code with versions, not releases** (owner, 2026-11-21: "these libraries aren't standalone… They're shared
 code", then "we still make pinned versions, we just don't make releases. We can build them for testing and stuff, we
